@@ -1,0 +1,16 @@
+[
+    {
+        "name": "First",
+        "data":{
+        "login": "qamid@qamid.ru",
+        "password": "qamid"
+        }
+    },
+    {
+        "name": "Second",
+        "data": {
+        "login": "qamid1@qamid.ru",
+        "password": "qamid1"
+    }
+    }
+]

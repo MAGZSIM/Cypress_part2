@@ -1,0 +1,6 @@
+{
+    "authorization": ".login__title",
+    "day": ".page-nav__day",
+    "movie": ".movie",
+    "choice": ".buying-scheme__wrapper > :nth-child(1) > :nth-child(5)"
+}
